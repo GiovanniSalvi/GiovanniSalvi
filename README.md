@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @GiovanniSalvi
+- 👋 Hi, I’m GiovanniSalvi
 - 👀 I’m interested in coding
 - 🌱 I’m currently learning React.JS
 - 💞️ I’m looking to collaborate on ...
